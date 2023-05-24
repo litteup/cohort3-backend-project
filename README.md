@@ -1,5 +1,8 @@
 
-![Cohort 3](https://img.shields.io/node/v/mongoose?style=for-the-badge )
+![Cohort 3](https://img.shields.io/node/v/mongoose )
+![Repo Size Byte ](https://img.shields.io/github/repo-size/Litteup/cohort3-backend-project )
+![License ](https://img.shields.io/github/license/litteup/cohort3-backend-project )
+
 # Top Universe Cohort 3-Backend-Project
 # PROJECT NAME HERE
 
