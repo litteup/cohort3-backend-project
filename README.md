@@ -4,8 +4,8 @@
 ![License ](https://img.shields.io/github/license/litteup/cohort3-backend-project )
 ![Last Commit Date ](https://img.shields.io/github/last-commit/litteup/cohort3-backend-project )
 
-# Top Universe Cohort 3-Backend-Project
 # Language Learing Application
+### Top Universe Cohort 3-Backend-Project
 
 Here contains the detailed project description of what the application could do with all features explained in summary.
 
