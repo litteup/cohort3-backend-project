@@ -1,4 +1,4 @@
-# Top Univers Cohort 3-Backend-Project
+# Top Universe Cohort 3-Backend-Project
 
 This is the readme file for Top Universer Cohort 3 Backend project.
 
