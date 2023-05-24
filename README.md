@@ -1,3 +1,5 @@
-# Cohort3-Backend-Project
+# Top Univers Cohort 3-Backend-Project
+
+This is the readme file for Top Universer Cohort 3 Backend project.
 
 ## Language Learning Application
