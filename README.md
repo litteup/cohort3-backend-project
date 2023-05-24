@@ -2,15 +2,14 @@
 ![Cohort 3](https://img.shields.io/node/v/mongoose )
 ![Repo Size Byte ](https://img.shields.io/github/repo-size/Litteup/cohort3-backend-project )
 ![License ](https://img.shields.io/github/license/litteup/cohort3-backend-project )
+![Last Commit Date ](https://img.shields.io/github/last-commit/litteup/cohort3-backend-project )
 
 # Top Universe Cohort 3-Backend-Project
-# PROJECT NAME HERE
+# Language Learing Application
 
-## Language Learning Application
+Here contains the detailed project description of what the application could do with all features explained in summary.
 
-Here contains the detailed project description with all features explained in summary.
-
-# A diagram or video here for visual appreciation of the project.
+# A diagram or video here for visual appreciation of the project if available.
 
 # How to use the project 
 
@@ -23,20 +22,3 @@ Here contains the detailed project description with all features explained in su
 If you find an issue or would like to submit an improvement to this project, you could reach out to @solomonmarvel97 on twitter.
 
 [Top Universe](https://topuniverse.org/)
-
-
-* Banner Maker - use to generate banner
-* Shields.io - For badges
-* carbon - used to generate image of codes
-
-Resources:
-* https://www.youtube.com/watch?v=a8CwpGARAsQ
-
-
-# Structre
-1 Add Logo or Banner
-2 Add badges - desciptive, related and required ones
-3 Short project description
-4 Add Gif ( optional)
-5 Installation Usage
-6 Additional information, contribution, license etc
