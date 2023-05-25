@@ -1,10 +1,11 @@
 
+# PROJECT NAME HERE : Language Learing Application
 ![Cohort 3](https://img.shields.io/node/v/mongoose )
 ![Repo Size Byte ](https://img.shields.io/github/repo-size/Litteup/cohort3-backend-project )
 ![License ](https://img.shields.io/github/license/litteup/cohort3-backend-project )
 ![Last Commit Date ](https://img.shields.io/github/last-commit/litteup/cohort3-backend-project )
 
-# PROJECT NAME HERE : Language Learing Application
+
 ### Top Universe Cohort 3 Project
 
 ### BRIEF DESCRIPTION OF THE APP HERE
