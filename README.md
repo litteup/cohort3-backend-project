@@ -11,8 +11,8 @@
 ### BRIEF DESCRIPTION OF THE APP HERE
 Here contains the detailed project description of what the application could do with all features explained in summary.
 
-* What the application does.
-* Benefit of the application over similar ones.
+    * What the application does.
+    * Benefit of the application over similar ones.
 
 # TABLE OF CONTENT
 
@@ -23,6 +23,11 @@ Here contains the detailed project description of what the application could do 
     * OThers goes here
 
 # How to use the project 
+    1. Step by step guide on quick way to use the app
+    2. Second step.
+    3. Navigate here and there.
+    4. Accessing help.
+    5. Contact developers.
 
 # How to setup / install the project.
 * _file structure_
