@@ -1,4 +1,4 @@
-# LANGUAGE LEARNING APP
+# __LINGOLEAP__
 ![NPM](https://img.shields.io/badge/LLA-Learn%20any%20of%20the%203%20major%20Nigerian%20Languages-blue)
 
 ![NPM](https://img.shields.io/npm/v/npm)
@@ -13,13 +13,13 @@
 ### This is a Top Universe Cohort 3 Project.
 #
 # Table of Contents
-    1.  Brief description of the application.
+    1.  Brief description of Lingoleap.
     2.  Some pictorial representation of the application.
     3.  Target audience. 
     4.  Language Proficiency level.
     5.  User resources.
     6.  Technologies.
-    7.  How to use the Language Learning App.
+    7.  How to use the Lingoleap.
     8.  Technical requirement.
     9.  Setup and installation.
     10. Program implementation.
@@ -27,18 +27,18 @@
     12. Credits.
     13. License.
 
-## 1. BRIEF DESCRIPTION OF THE APP 
+## 1. __BRIEF DESCRIPTION OF LINGOLEAP__
 #
-Learning Language App is a language learning web solution aimed at teaching users any of the 3 major Nigerian languages namely Yoruba, Igbo and Hausa. Interactive free or paid language courses are regularly uploaded to the platform by expert language instructors while users can enrol to take the courses.
+Lingoleap is a language learning web solution aimed at teaching users any of the 3 major Nigerian languages namely Yoruba, Igbo and Hausa. Interactive free or paid language courses are regularly uploaded to the platform by expert language instructors while users can enrol to take the courses.
 
     * Users can track their learning progress via the personal dashboard.
     * Users can explore the community space to network with other users and practise what they are learning in realtiime and with humans.
     * The interactive features of the platform is focused on microtasks (quizzes).
     * Other extra features include instant translation, spelling prompts and interpretations from english to any of the e desired languages.
 
-## 2. SOME PICTORIAL REPRESENTATION OF THE APPLICATION
+## __2. SOME PICTORIAL REPRESENTATION OF LINGOLEAP__
 
-## 3. TARGET AUDIENCE
+## __3. TARGET AUDIENCE__
 The application targets include:
 
     *  Students
@@ -47,10 +47,10 @@ The application targets include:
     *  Business owners
     *  Tourists
 
-## 4. LANGUAGE PROFICIENCY LEVEL
+## __4. LANGUAGE PROFICIENCY LEVEL__
 The language proficiency level for users are beginners and intermediate.
 
-## 5. USER RESOURCES
+## __5. USER RESOURCES__
     a.  Interactive Lessons : Interactive uploaded courses.
     b.  Dashboard: View general learning progress.
     c.  Progress Tracking: Check and rate personal performance/progress during the learning journey.
@@ -59,11 +59,11 @@ The language proficiency level for users are beginners and intermediate.
     g.  Instant translations / interpretation: Allow users to translate contents or words from one language to the other.
     h.  Spelling prompts: Show users 5 words daily based on their learning path and teach them how to pronounce those words.
 
-## 6. TECHNOLOGIES
+## __6. TECHNOLOGIES__
     * CSS, HTML, Javascript
     * OThers goes here
 
-# How TO USE THE LANGUAGE APP
+# __How TO USE LINGOLEAP__
     1. Step by step guide on quick way to use the app
     2. Second step.
     3. Navigate here and there.
@@ -71,7 +71,7 @@ The language proficiency level for users are beginners and intermediate.
     5. Contact developers.
 
 
-## 8.   TECHNICAL REQUIREMENT
+## __8.   TECHNICAL REQUIREMENT__
     a.  Compatibility with operating systems.
         *   iOS.
         *   Linux.
@@ -111,7 +111,7 @@ The language proficiency level for users are beginners and intermediate.
 
 
 
-#   9. SETUP AND INSTALLATION
+#   __9. SETUP AND INSTALLATION__
 * _file structure_
 * _program logic_
 * _database set up_
@@ -121,16 +121,16 @@ The language proficiency level for users are beginners and intermediate.
 * _easy-to-understand_
 * _format_
 
-# 10.   PROGRAM IMPLEMENTATION
+# __10.   PROGRAM IMPLEMENTATION__
 
-# 11.   HOW TO CONTRIBUTE TO THE PROJECT
+# __11.   HOW TO CONTRIBUTE TO THE PROJECT__
 ## Known bugs ?
 * How it affects the program
 * What is being done
 ## Find a bug ?
 If you find an issue or would like to submit an improvement to this project, you could reach out to @solomonmarvel97 on twitter.
 
-# 12.   CREDIT
+# __12.   CREDIT__
 List of all involved in the success of the project comes here ( Include links to their bio if available).
 1. UI/UX team.
 2. FE team.
@@ -142,7 +142,7 @@ List of all involved in the success of the project comes here ( Include links to
 * Resources 1
 * Resources 2
 
-# 13.    License
+# __13.    License__
 _{what to do if users run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
 
 
