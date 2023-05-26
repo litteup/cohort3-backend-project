@@ -63,7 +63,7 @@ The language proficiency level for users are beginners and intermediate.
     * CSS, HTML, Javascript
     * OThers goes here
 
-# __How TO USE LINGOLEAP__
+# __HOW TO USE LINGOLEAP__
     1. Step by step guide on quick way to use the app
     2. Second step.
     3. Navigate here and there.
