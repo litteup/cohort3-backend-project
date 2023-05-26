@@ -1,4 +1,3 @@
-![LLA Badge](https://img.shields.io/badge/Language Learning App-text-#199900?style=for-the-badge$logo=Leaflet)
 # LANGUAGE LEARNING APP
 ![NPM](https://img.shields.io/badge/LLA-Learn%20any%20of%20the%203%20major%20Nigerian%20Languages-blue)
 
