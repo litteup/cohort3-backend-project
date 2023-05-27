@@ -1,6 +1,4 @@
 # __LINGOLEAP__
-![NPM](https://img.shields.io/badge/LLA-Learn%20any%20of%20the%203%20major%20Nigerian%20Languages-blue)
-
 ![NPM](https://img.shields.io/npm/v/npm)
 ![Repo Size Byte ](https://img.shields.io/github/repo-size/top-universe/cohort3-backend-project )
 [![Github Code Size in Bytes](https://img.shields.io/github/languages/code-size/top-universe/cohort3-backend-project)](https://github.com/top-universe/cohort3-backend-project)
@@ -29,7 +27,7 @@
 
 ## 1. __BRIEF DESCRIPTION OF LINGOLEAP__
 #
-Lingoleap is a language learning web solution aimed at teaching users any of the 3 major Nigerian languages namely Yoruba, Igbo and Hausa. Interactive free or paid language courses are regularly uploaded to the platform by expert language instructors while users can enrol to take the courses.
+Lingoleap is a language learning web solution aimed at teaching users/subscribers various languages. The interactive free or paid language courses are regularly uploaded to the platform by expert language instructors and users can enrol to take the courses.
 
     * Users can track their learning progress via the personal dashboard.
     * Users can explore the community space to network with other users and practise what they are learning in realtiime and with humans.
