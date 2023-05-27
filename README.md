@@ -1,4 +1,5 @@
 # __LINGOLEAP__
+![alt text](https://github.com/litteup/cohort3-backend-project/tree/main/images/lingoleap_logo.jpg)
 ![NPM](https://img.shields.io/npm/v/npm)
 ![Repo Size Byte ](https://img.shields.io/github/repo-size/top-universe/cohort3-backend-project )
 [![Github Code Size in Bytes](https://img.shields.io/github/languages/code-size/top-universe/cohort3-backend-project)](https://github.com/top-universe/cohort3-backend-project)
