@@ -24,7 +24,8 @@
     10. Program implementation.
     11. How to contribute to the project. 
     12. Credits.
-    13. License.
+    13. Helpful Links
+    14. License.
 
 ## 1. __BRIEF DESCRIPTION OF LINGOLEAP__
 #
@@ -141,7 +142,9 @@ List of all involved in the success of the project comes here ( Include links to
 * Resources 1
 * Resources 2
 
-# __13.    License__
+# __13. HELPFUL LINK__
+
+# __14. LICENSE__
 _{what to do if users run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
 
 
